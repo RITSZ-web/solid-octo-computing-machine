@@ -14,3 +14,7 @@ Este proyecto es una implementación de una máquina de computación sólida con
    ```bash
    git clone https://github.com/RITSZ/octogonal-solid-computing-machine.git
    cd octogonal-solid-computing-machine
+   
+npm install
+
+npm start
